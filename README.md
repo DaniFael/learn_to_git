@@ -1,6 +1,7 @@
 # learn_to_git
 this repository was made for the purposes of learning how to work with git:
 that is, learn how to clone, push, pull...
+
 ##<ins>how to clone a github repository:</ins>##
 1) in the online git repository, press on the green code button, and copy the URL link under HTTPS
 2) open command prompt
