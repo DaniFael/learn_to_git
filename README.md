@@ -27,6 +27,9 @@ that is, learn how to clone, push, pull...
    git commit -m "some_meaningfull_message_that_explains_the_changes_that_we_have_made_in_this_commit"
 6) write:
    git push
+   or:
+   git push origin branch_name
+   if you want to push this to a specific branch. the default branch is usualy called main.
    
 
 <ins>how to pull changes made to the github repository to your local version oon your computer:</ins>
