@@ -10,6 +10,16 @@ that is, learn how to clone, push, pull...
    
    **git clone the_URL_of_the_repository_that_you_coppied_in_step_1**
 
+
+<ins>how to pull changes made to the github repository to your local version oon your computer:</ins>
+1) open command prompt
+2) using **cd**, navigate to the directory of the cloned copy of this repository
+3) there write:
+
+   **git pull origin branch_name**
+   
+   where branch_name is usualy called main.
+
 <ins>how to add a new file to the locan version github repository:</ins>
 you can simply add new files to cloned repository in the file explorer or in any other known way.
 
@@ -45,6 +55,4 @@ you can simply add new files to cloned repository in the file explorer or in any
    
    the default branch is usualy called main.
    
-
-<ins>how to pull changes made to the github repository to your local version oon your computer:</ins>
 
