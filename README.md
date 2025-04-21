@@ -32,7 +32,7 @@ you can simply add new files to cloned repository in the file explorer or in any
    **git status**
    
    this command will show if there are some changes in you local version that are not commited.
-5) write:
+4) write:
    
    **git add the_name_of_the_file_that_has_been_added_or_changed**
    
@@ -41,10 +41,10 @@ you can simply add new files to cloned repository in the file explorer or in any
    **git add .**
    
    where the . signifies "all"
-7) write:
+5) write:
    
    **git commit -m "some_meaningfull_message_that_explains_the_changes_that_we_have_made_in_this_commit"**
-9) write:
+6) write:
     
    **git push**
    
@@ -55,5 +55,6 @@ you can simply add new files to cloned repository in the file explorer or in any
    if you want to push this to a specific branch.
    
    the default branch is usualy called main.
+7) than a window will pop up and you will be asked to sign in to your github account.
    
 
