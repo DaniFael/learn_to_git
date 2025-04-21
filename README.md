@@ -21,6 +21,7 @@ that is, learn how to clone, push, pull...
    where branch_name is usualy called main.
 
 <ins>how to add a new file to the locan version github repository:</ins>
+
 you can simply add new files to cloned repository in the file explorer or in any other known way.
 
 <ins>how to push changes made in your local version of the reposutory to the online repository:</ins>
