@@ -57,4 +57,18 @@ you can simply add new files to cloned repository in the file explorer or in any
    the default branch is usualy called main.
 7) than a window will pop up and you will be asked to sign in to your github account.
    
+<ins>more commands worth knowing:</ins>
 
+**git brach** - 
+
+this command shows all the branches of this project with an * next to the branch you are currently in.
+
+**git branch new_branch_name**
+
+this command creates a new branch with the name new_branch_name.
+
+* note that to see this new branch online you will have to swich to this new branch using **git checkout new_branch_name** and than commit and push the changes from the new branch using git **push origin new_branch_name**.
+
+**git checkout name_of_branch_you_want_to_move_to**
+
+this command moves you from the branh you were in to the branch named name_of_branch_you_want_to_move_to. 
