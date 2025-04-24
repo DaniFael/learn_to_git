@@ -72,3 +72,7 @@ this command creates a new branch with the name new_branch_name.
 **git checkout name_of_branch_you_want_to_move_to**
 
 this command moves you from the branh you were in to the branch named name_of_branch_you_want_to_move_to. 
+
+**link to a usefull youtube tutorial:**
+
+https://www.youtube.com/watch?v=xnR0dlOqNVE
