@@ -76,3 +76,7 @@ this command moves you from the branh you were in to the branch named name_of_br
 **link to a usefull youtube tutorial:**
 
 https://www.youtube.com/watch?v=xnR0dlOqNVE
+
+**link to a site that explains the basic formating syntax of README files:**
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
